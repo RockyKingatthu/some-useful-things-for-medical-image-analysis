@@ -10,4 +10,4 @@ As far as I know, MICCAI and ISBI are two main conferences in medical image anal
 
 ISBI (IEEE International Symposium on Biomedical Imaging) is another important conference in this field, held every year in about April.
 
-Other conferences I know are IPMI (International Conference on Information Processing in Medical Imaging, biennial), FIMH (International Conference on Functional Imaging and Modeling of the Heart, biennial) and EMBC (International Conference of the IEEE Engineering in Medicine and Biology Society)
+Other conferences I know are IPMI (International Conference on Information Processing in Medical Imaging, biennial), FIMH (International Conference on Functional Imaging and Modeling of the Heart, biennial) and EMBC (International Conference of the IEEE Engineering in Medicine and Biology Society). By the way, IPMI is really an
