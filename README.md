@@ -5,8 +5,10 @@ Nowadays, there are lots of awesome materials for learning computer vision while
 
 ## Top Conferences and Journals
 MICCAI ()
+
 ISBI
 
 ## Top Journals
-Medical Image Analysis (Impact Factor)
-IEEE Transaction on Medical Imaging
+Medical Image Analysis (5-Year Impact Factor: 5.012)
+
+IEEE Transaction on Medical Imaging (Impact Factor: 3.942)
