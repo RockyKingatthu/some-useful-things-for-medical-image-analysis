@@ -14,4 +14,4 @@ Medical Image Analysis (5-Year Impact Factor: 5.012)
 IEEE Transaction on Medical Imaging (Impact Factor: 3.942)
 
 ## Research Group That I Know
-Dinggang Shen
+Dinggang Shen, professor of UNC-Chapel Hill
