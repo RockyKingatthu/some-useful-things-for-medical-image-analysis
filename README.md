@@ -15,3 +15,5 @@ IEEE Transaction on Medical Imaging (Impact Factor: 3.942)
 
 ## Research Group That I Know
 Dinggang Shen, professor of UNC-Chapel Hill
+very famous,
+brain structural and functional analysis
