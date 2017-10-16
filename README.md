@@ -15,5 +15,8 @@ IEEE Transaction on Medical Imaging (Impact Factor: 3.942)
 
 ## Research Group That I Know
 Dinggang Shen, professor of UNC-Chapel Hill
+
+Every year in MICCAI there are about 20 papers from Professor Shen's IDEA lab. It's crazy!
+
 very famous,
 brain structural and functional analysis
