@@ -18,5 +18,4 @@ Dinggang Shen, professor of UNC-Chapel Hill
 
 Every year in MICCAI there are about 20 papers from professor Shen's IDEA lab. It's crazy!
 
-very famous,
 brain structural and functional analysis
